@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Aravinth Raj 👋
 
-<!--
-**aravinthraj42/aravinthraj42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Engineer | React Developer | AI Explorer
 
-Here are some ideas to get you started:
+Building scalable web applications, backend services, and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Software Engineer focused on modern web technologies
+- ⚛️ Building applications with React and Node.js
+- 🗄️ Working with MongoDB and REST APIs
+- 🤖 Exploring AI integration in CRM and business applications
+- 👨‍🏫 Mentoring interns in Git, JavaScript, React, and software development fundamentals
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+React.js • JavaScript • HTML5 • CSS3
+
+### Backend
+Node.js • Express.js • REST APIs
+
+### Database
+MongoDB
+
+### Tools
+Git • GitHub • VS Code • Postman
+
+### Currently Exploring
+Python • AI Applications • Prompt Engineering • System Design
+
+---
+
+## 📈 Current Focus
+
+- AI-powered CRM Systems
+- Intelligent Document Processing
+- React Performance Optimization
+- Backend Scalability
+- Software Architecture
+
+---
+
+## 🌟 Featured Interests
+
+- Artificial Intelligence
+- Automation
+- Full Stack Development
+- CRM Platforms
+- Educational Technology
+- Developer Mentorship
+
+---
+
+## 📍 Location
+
+Kochi, Kerala, India 🇮🇳
+
+Native :
+Thoothukudi, Tamilnadu, India.
+
+---
+
+## 📫 Connect
+
+Feel free to explore my repositories and projects.
+
+Open to discussions about:
+- React.js
+- Node.js
+- MongoDB
+- AI Solutions
+- Software Engineering
+
+---
+
+> "Learn by building. Grow by solving real-world problems."
